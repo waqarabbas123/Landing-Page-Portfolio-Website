@@ -6,4 +6,4 @@
 
 # downloading method for use their own personal portfolio .
 = 1st of all you can download the file in zip file and then you can unzip file 
-= then you can run file in our browser like (chorome , firefox , safari , edge)
+= then you can run file in our browser like (chorome , firefox , safari , edge).
