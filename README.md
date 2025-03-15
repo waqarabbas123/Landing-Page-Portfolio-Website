@@ -25,8 +25,8 @@ Usage:
 
    1 Customize the HTML content to showcase your personal details, projects, and skills.
    2 Modify the CSS file to adjust styling and layout as per your preference.
-   3 Edit the JavaScript file to enhance animations and interactivity.
-
+   3 Edit the JavaScript file to enhance animations and interactivity
+   
 Contributing:
 
 Feel free to fork this repository and make improvements. Pull requests are welcome!
