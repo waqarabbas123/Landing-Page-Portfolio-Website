@@ -33,7 +33,7 @@ Feel free to fork this repository and make improvements. Pull requests are welco
 
 License:
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License
 
 Contact:
 
