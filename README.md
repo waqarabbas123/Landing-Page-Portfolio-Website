@@ -40,4 +40,4 @@ Contact:
 For any inquiries or collaborations, feel free to reach out:
 Email: waqar23999@gmail.com
 GitHub: waqarabbas123
-Portfolio: ( https://github.com/waqarabbas123/Landing-Page-Portfolio-Website/ ).
+Portfolio: ( https://github.com/waqarabbas123/Landing-Page-Portfolio-Website/ )....
